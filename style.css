@@ -1,0 +1,35 @@
+
+
+h1{
+    color:aqua
+}
+/* *{
+    border: solid;
+} */
+
+.header{
+    background-color: yellow;
+    display:flex;
+    justify-content: space-between;
+
+}
+.grid{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color:#21e50b;
+    display:flex;
+    justify-content: flex-end;
+   
+}
+body {
+
+    background-color:#21e50b;
+}
+h2{
+    color:darkblue
+}
+
